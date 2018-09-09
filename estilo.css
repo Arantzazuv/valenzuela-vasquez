@@ -4,7 +4,7 @@
 }
 
 body{
-	background:-moz-linear-gradient(left, rgba(94,236,255,1) 18%, rgba(239,1,124,1) 86%);
+	background:-prefix-linear-gradient(top, rgba(94,236,255,1) 18%, rgba(239,1,124,1) 86%);
 	color:rgba(25,25,25,1);
 	font-family:'Press Start 2P', cursive;
 	font-weight:400;
