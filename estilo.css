@@ -32,26 +32,27 @@ h3{
 	font-weight: 700;
 }
 
-h2, h3, h4, h5, h6{
+h2,h4, h5, h6{
 	font-family: 'Playfair Display', serif;
 	font-weight:500;
 }
 
 h2{
 	letter-spacing:0.02em;
-	color:rgba(27, 9, 250,1);
+	color:rgba(247,202, 201,1);
 	padding:0.2em 0;
 	text-shadow: 1px 1px 0 #999;
 	text-align:center;
 }
 
-h5, h6{
-	font-weight:left;
-	font-weight:400;
-}
 h4{
 font-weight: 900900;
 	font-size: 120%;
+}
+
+h5, h6{
+	font-weight:left;
+	font-weight:400;
 }
 
 #contenido{width:98%; margin:1% auto;}
