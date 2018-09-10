@@ -10,7 +10,7 @@ body{
 	font-weight:400;
 }
 
-h1, h2, h3, h4{
+h1, h2, h3, h4, h5, h6{
 	font-family: 'Playfair Display', serif;
 	font-weight:500;
 }
@@ -18,7 +18,7 @@ h1, h2, h3, h4{
 h1{
 	letter-spacing:0.1em;
 	font-size: 300%;
-	color:rgba(89,13,156,1);
+	color:rgba(255,255,255,1);
 	text-shadow: 1px 1px 0 #999;
 	text-align:center;
 }
