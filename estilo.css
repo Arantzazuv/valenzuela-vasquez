@@ -93,13 +93,13 @@ video{
 	}
 
 .dupla a{
-	color:rgba(255,0,0,0.75);
+	color:rgba(255,255,255,0.75);
 	text-decoration:none;
 	font-weight:700;
 }
 
 .dupla a:hover{
-	color:rgba(255,0,0,1);
+	color:rgba(146,168,209,1);
 	text-decoration:underline;
 }
 
@@ -195,8 +195,8 @@ footer{
 	padding:3em 0 1em 0;
 	text-align:center;
 	color: rgba(255,255,255,1)
-	font-family: 'Chewy', cursive;
-	font-weight:400;
+	font-family: 'Roboto', sans-serif;
+	font-weight:700;
 }
 
 footer p{
